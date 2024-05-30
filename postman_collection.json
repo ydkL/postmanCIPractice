@@ -14,7 +14,7 @@
 					"script": {
 						"exec": [
 							"var schema = {\r",
-							"  \"type\": \"object\",\r",
+							"  \"type\": \"array\",\r",
 							"  \"items\": {\r",
 							"    \"type\": \"object\",\r",
 							"    \"properties\": {\r",
