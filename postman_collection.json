@@ -40,8 +40,8 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://localhost:7147/WeatherForecast",
-					"protocol": "https",
+					"raw": "http://localhost:7147/WeatherForecast",
+					"protocol": "http",
 					"host": [
 						"localhost"
 					],
